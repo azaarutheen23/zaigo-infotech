@@ -1,6 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.9.0.1
 -- https://www.phpmyadmin.net/
+--
 -- Host: 127.0.0.1
 -- Generation Time: Nov 10, 2019 at 09:21 AM
 -- Server version: 10.4.6-MariaDB
